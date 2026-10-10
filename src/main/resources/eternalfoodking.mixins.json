@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"package": "com.ght100.eternalfoodking.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+      "ServerPlayerMixin",
+      "PlayerListMixin",
+      "BucketItemMixin",
+      "SkulkerBoxBlockEntityMixin",
+      "BlockEntityTypesMixin",
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

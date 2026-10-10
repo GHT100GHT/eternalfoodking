@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "eternalfoodking:sterilized_dog_milk_bucket",
+    "minecraft:honeycomb",
+    "minecraft:paper",
+    "eternalfoodking:sterilized_dog_milk_bucket",
+    "eternalfoodking:sterilized_dog_milk_bucket",
+    "eternalfoodking:sterilized_dog_milk_bucket",
+    "eternalfoodking:sterilized_dog_milk_bucket",
+    "eternalfoodking:sterilized_dog_milk_bucket",
+    "eternalfoodking:chrysanthemum_tea"
+  ],
+  "result": {
+    "id": "eternalfoodking:wild_dog_milk_bucket",
+    "components": {
+      "minecraft:custom_data": {
+        "dog_milk_count": 6
+      }
+    }
+  }
+}

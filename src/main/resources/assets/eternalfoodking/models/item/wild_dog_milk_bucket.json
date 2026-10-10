@@ -1,0 +1,52 @@
+{
+	"format_version": "26.2",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "eternalfoodking:item/d1",
+		"1": "eternalfoodking:item/d2",
+		"2": "eternalfoodking:item/d3",
+		"particle": "eternalfoodking:item/d1"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 0],
+			"to": [13, 17, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 4.25, 2.25, 8.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 4.25], "texture": "#0"},
+				"south": {"uv": [2.25, 4.25, 4.5, 8.5], "texture": "#0"},
+				"west": {"uv": [4, 0, 8, 4.25], "texture": "#0"},
+				"up": {"uv": [6.75, 8.25, 4.5, 4.25], "texture": "#0"},
+				"down": {"uv": [9, 4.25, 6.75, 8.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 0],
+			"to": [4, 17, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 4.25, 0.25, 8.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 4.25], "texture": "#1"},
+				"south": {"uv": [0.25, 4.25, 0.5, 8.5], "texture": "#1"},
+				"west": {"uv": [4, 0, 8, 4.25], "texture": "#1"},
+				"up": {"uv": [0.75, 8.25, 0.5, 4.25], "texture": "#1"},
+				"down": {"uv": [1, 4.25, 0.75, 8.25], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 3, 2],
+			"to": [6, 21, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 3, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 9], "texture": "#2"},
+				"east": {"uv": [0.5, 0, 1, 9], "texture": "#2"},
+				"south": {"uv": [1, 0, 1.5, 9], "texture": "#2"},
+				"west": {"uv": [1.5, 0, 2, 9], "texture": "#2"},
+				"up": {"uv": [2.5, 0.5, 2, 0], "texture": "#2"},
+				"down": {"uv": [2.5, 0.5, 2, 1], "texture": "#2"}
+			}
+		}
+	]
+}

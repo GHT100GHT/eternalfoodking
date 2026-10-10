@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "eternalfoodking",
+	"version": "${version}",
+	"name": "eternalfoodking",
+	"description": "Three absurd foods that bend time, space, and reality — plus spatial shulker boxes that can nest infinitely.",
+	"authors": [
+		"ght100"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GPLv3",
+	"icon": "assets/eternalfoodking/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.ght100.eternalfoodking.Eternalfoodking"
+		],
+		"client": [
+			"com.ght100.eternalfoodking.client.EternalfoodkingClient"
+		]
+	},
+	"mixins": [
+		"eternalfoodking.mixins.json",
+		{
+			"config": "eternalfoodking.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

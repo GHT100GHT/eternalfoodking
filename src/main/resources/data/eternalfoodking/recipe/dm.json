@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "eternalfoodking:dog_milk_bucket",
+  "result": {
+    "id": "eternalfoodking:sterilized_dog_milk_bucket"
+  },
+  "experience": 30,
+  "cookingtime": 24000
+}

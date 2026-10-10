@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "eternalfoodking:spatial_upgrade_smithing_template",
+  "base": "minecraft:light_blue_shulker_box",
+  "addition": "eternalfoodking:chrysanthemum_tea",
+  "result": {
+    "id": "eternalfoodking:light_blue_space_shulker_box"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DTD",
+    "DMD",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:diamond" ,
+    "T":  "eternalfoodking:spatial_upgrade_smithing_template" ,
+    "M": "minecraft:dirt"
+  },
+  "result": {
+    "id": "eternalfoodking:spatial_upgrade_smithing_template",
+    "count": 2
+  }
+}

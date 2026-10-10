@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eternalfoodking:item/dog_milk_bucket1"
+  }
+}

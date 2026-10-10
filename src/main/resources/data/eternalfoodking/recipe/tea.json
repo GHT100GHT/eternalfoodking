@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:honeycomb",
+    "minecraft:cornflower",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "eternalfoodking:chrysanthemum_tea"
+  }
+}

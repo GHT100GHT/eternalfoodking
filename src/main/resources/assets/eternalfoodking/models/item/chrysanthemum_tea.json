@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "eternalfoodking:item/t1",
+		"particle": "eternalfoodking:item/t1"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 4],
+			"to": [10, 6, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 4]},
+			"faces": {
+				"north": {"uv": [4, 4, 7, 10], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 10], "texture": "#0"},
+				"south": {"uv": [11, 4, 14, 10], "texture": "#0"},
+				"west": {"uv": [7, 4, 11, 10], "texture": "#0"},
+				"up": {"uv": [7, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [10, 0, 7, 4], "texture": "#0"}
+			}
+		}
+
+	]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:echo_shard",
+    "#minecraft:meat",
+    "#minecraft:meat",
+
+    "#minecraft:meat",
+
+    "#minecraft:meat",
+
+    "#minecraft:meat",
+
+    "#minecraft:meat",
+
+    "#minecraft:meat",
+
+    "#minecraft:meat"
+  ],
+  "result": {
+    "id": "eternalfoodking:echo_steak",
+    "count": 8
+  }
+}
